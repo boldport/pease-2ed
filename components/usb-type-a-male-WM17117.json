@@ -1,0 +1,167 @@
+{
+"pins":
+  {
+  "M1":
+    {	
+      "layout": 
+      {
+        "pad": "1.1mm", 
+        "location": [-2.25, 0]
+      }
+    },
+  "M2":
+    {	
+      "layout": 
+      {
+        "pad": "1.1mm", 
+        "location": [2.25, 0]
+      }
+    },
+  "M3":
+    {	
+      "layout": 
+      {
+        "pad": "2.5mm", 
+        "location": [-5.85, 0]
+      }
+    },
+  "M4":
+    {	
+      "layout": 
+      {
+        "pad": "2.5mm", 
+        "location": [5.85, 0]
+      }
+    },
+  "1":
+    {	
+      "layout": 
+      {
+        "pad": "1mm-sq", 
+        "location": [-3.5, -2.1]
+      }
+    },
+  "2":
+    {	
+      "layout": 
+      {
+        "pad": "1mm", 
+        "location": [-1, -2.1]
+      }
+    },
+  "3":
+    {	
+      "layout": 
+      {
+        "pad": "1mm", 
+        "location": [1, -2.1]
+      }
+    },
+  "4":
+    {	
+      "layout": 
+      {
+        "pad": "1mm", 
+        "location": [3.5, -2.1]
+      }
+    }
+  },
+  "layout":
+  {
+    "silkscreen":
+    {
+      "shapes":
+      [
+      ]
+    },
+    "assembly":
+    {
+      "shapes":
+      [
+ 	{
+          "type": "rect",
+          "width": 11.7,
+          "height": 18.8,
+	  "location": [0, 7.9]
+	}
+      ]
+    }
+  },
+  "pads":
+  {
+    "2.5mm":
+    {
+      "shapes":
+      [
+	{
+	  "layers": ["top", "bottom"],
+	  "type": "circle",
+	  "diameter": 3.5
+	}
+      ],
+      "drills":
+      [
+        {
+          "diameter": 2.5,
+          "offset": [0, 0],
+          "show_diameter": "yes"
+        }
+      ]
+    },
+    "1mm-sq":
+    {
+      "shapes":
+      [
+	{
+          "layers": ["top", "bottom"],
+	  "type": "rect",
+	  "width": 1.6,
+	  "height": 1.6,
+	  "radii": {"tl": 0.8, "tr": 0.2, "bl": 0.2, "br": 0.2}
+	}
+      ],
+      "drills":
+      [
+        {
+          "diameter": 1
+        }
+      ]
+    },
+    "1mm":
+    {
+      "shapes":
+      [
+	{
+          "layers": ["top", "bottom"],
+	  "type": "circle",
+	  "outline": 0,
+	  "diameter": 1.6 
+	}
+      ],
+      "drills":
+      [
+        {
+          "diameter": 1
+        }
+      ]
+    },
+    "1.1mm":
+    {
+      "shapes":
+      [
+	{
+	  "layers": ["top", "bottom"],
+	  "type": "circle",
+	  "outline": 0,
+	  "diameter": 0.1 
+	}
+      ],
+      "drills":
+      [
+        {
+          "diameter": 1.1
+        }
+      ]
+    }
+  }
+}

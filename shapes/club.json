@@ -1,0 +1,25 @@
+{
+  "layout":
+  {
+    "conductor":
+    {
+      "shapes":
+      [
+        {
+          "font-family": "Helsinki-webfont", 
+          "font-size": "4.5mm", 
+          "letter-spacing": "0mm", 
+          "line-height": "4.5mm", 
+          "location": [
+            0, 
+            0
+          ],
+          "layers": ["bottom"],
+          "style": "fill", 
+          "type": "text", 
+          "value": "Boldport Club"
+        }
+      ]
+    }
+  }
+}
