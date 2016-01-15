@@ -7,9 +7,9 @@
       [
         {
           "font-family": "Helsinki-webfont", 
-          "font-size": "4.5mm", 
+          "font-size": "4mm", 
           "letter-spacing": "0mm", 
-          "line-height": "4.5mm", 
+          "line-height": "4mm", 
           "location": [
             0, 
             0
@@ -17,7 +17,7 @@
           "layers": ["bottom"],
           "style": "fill", 
           "type": "text", 
-          "value": "Boldport Club"
+          "value": "Boldport Club, project   1"
         }
       ]
     }
