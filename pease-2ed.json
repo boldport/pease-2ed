@@ -398,6 +398,26 @@
     ]
   }, 
   "shapes": {
+    "CLUB": {
+      "footprint": "club", 
+      "layer": "top", 
+      "location": [
+        -3.448179, 
+        5
+      ], 
+      "rotation": 0, 
+      "show": true
+    }, 
+    "LOGO": {
+      "footprint": "boldport-logo-b", 
+      "layer": "bottom", 
+      "location": [
+        36.609657, 
+        1.128889
+      ], 
+      "rotation": 0, 
+      "show": true
+    }, 
     "QTY": {
       "footprint": "quote", 
       "layer": "top", 
@@ -427,16 +447,6 @@
       ], 
       "rotation": 0, 
       "show": true
-    }, 
-    "CLUB": {
-      "footprint": "club", 
-      "layer": "top", 
-      "location": [
-        0, 
-        5
-      ], 
-      "rotation": 0, 
-      "show": false
     }
   }
 }
