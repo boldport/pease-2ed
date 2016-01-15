@@ -45,7 +45,7 @@
           "layers": ["top"],
 	  "type": "rect",
 	  "width": 0.3,
-	  "height": 1.43,
+	  "height": 1.143,
 	  "style": "fill"
 	}
       ]
