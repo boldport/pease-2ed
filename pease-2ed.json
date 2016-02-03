@@ -382,10 +382,10 @@
     "shape": {
       "height": 20, 
       "radii": {
-        "bl": 1.5, 
+        "bl": 2.5, 
         "br": 2.5, 
         "tl": 2.5, 
-        "tr": 1.5
+        "tr": 2.5
       }, 
       "type": "rect", 
       "width": 80
