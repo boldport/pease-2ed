@@ -33,9 +33,9 @@
      showgrid="true"
      inkscape:document-units="mm"
      inkscape:window-maximized="1"
-     inkscape:zoom="0.8905421"
-     inkscape:cx="307.93257"
-     inkscape:cy="77.968166"
+     inkscape:zoom="1.7810842"
+     inkscape:cx="419.73032"
+     inkscape:cy="310.13935"
      inkscape:window-width="1920"
      inkscape:window-height="1056"
      inkscape:window-x="0"
@@ -115,22 +115,22 @@ and is maintained by Boldport
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:5.38399553px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="117.25434"
-       y="53.143097"
+       x="110.48102"
+       y="55.400879"
        id="text6993"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan6995"
-         x="117.25434"
-         y="53.143097">mid</tspan></text>
+         x="110.48102"
+         y="55.400879">mid</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text6997"
-       y="53.143097"
+       y="55.400879"
        x="42.434624"
        style="font-style:normal;font-weight:normal;font-size:5.38399553px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         y="53.143097"
+         y="55.400879"
          x="42.434624"
          id="tspan6999"
          sodipodi:role="line">base</tspan></text>
@@ -150,11 +150,11 @@ and is maintained by Boldport
        id="path1894"
        pcbmode:style="stroke"
        style="fill:none;stroke:#555555;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 136.93031,-57.265185 c 1.38071,0 2.5,1.119288 2.5,2.5 l 0,99.835557 c 0,1.38071 -1.11929,2.5 -2.5,2.5 l -45.479978,0 c -1.38071,0 -2.5,-1.11929 -2.5,-2.5 l 0,-90.773613 12.136108,-11.561944 z"
+       d="m 136.93031,-57.265185 c 1.38071,0 2.5,1.119288 2.5,2.5 l 0,100.964445 c 0,1.38071 -1.11929,2.5 -2.5,2.5 l -45.479978,0 c -1.38071,0 -2.5,-1.11929 -2.5,-2.5 l 0,-91.902501 12.136108,-11.561944 z"
        sodipodi:nodetypes="ccccccccc" />
     <path
        style="fill:none;stroke:#555555;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 117.23645,-53.497307 0,15.987449 -1.72033,0 c -1.38071,0 -2.50032,1.119598 -2.50032,2.500311 l 0,30.0776131 c -1.56313,2.1594713 -2.40668,4.75627693 -2.41101,7.4221142 0.006,2.6635766 0.8492,5.2578592 2.41101,7.4154989 l 0,30.0847788 c 0,1.38071 1.11961,2.49976 2.50032,2.49976 l 7.49982,0 8.06428,0 c 1.38071,0 2.50031,-1.11905 2.50031,-2.49976 l 0,-30.0781636 c 1.56313,-2.1594713 2.40668,-4.7562769 2.41101,-7.4221141 -0.006,-2.66357667 -0.8492,-5.2578593 -2.41101,-7.4154989 l 0,-30.0842284 c 0,-1.380713 -1.1196,-2.500311 -2.50031,-2.500311 l -1.01534,0 0,-15.987449 z"
+       d="m 117.23645,-52.276725 0,15.987449 -1.72033,0 c -1.38071,0 -2.50032,1.119598 -2.50032,2.500311 l 0,30.0776131 c -1.56313,2.1594713 -2.40668,4.7562769 -2.41101,7.4221142 0.006,2.6635766 0.8492,5.2578592 2.41101,7.4154987 l 0,30.084779 c 0,1.38071 1.11961,2.49976 2.50032,2.49976 l 7.49982,0 8.06428,0 c 1.38071,0 2.50031,-1.11905 2.50031,-2.49976 l 0,-30.078164 c 1.56313,-2.1594709 2.40668,-4.7562765 2.41101,-7.4221137 -0.006,-2.6635767 -0.8492,-5.2578593 -2.41101,-7.4154989 l 0,-30.0842284 c 0,-1.380713 -1.1196,-2.500311 -2.50031,-2.500311 l -1.01534,0 0,-15.987449 z"
        id="path4548"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccsscccsscsscccssccc" />
@@ -163,14 +163,14 @@ and is maintained by Boldport
        id="path4552"
        pcbmode:style="stroke"
        style="fill:none;stroke:#555555;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 103.98695,-37.509629 c 1.38073,0 2.50002,1.119288 2.50002,2.5 l 0,75 c 0,1.38071 -1.11929,2.5 -2.50002,2.5 l -6.533274,0 c -1.38071,0 -2.5,-1.11929 -2.5,-2.5 l 0,-75 c 0,-1.380712 1.11929,-2.5 2.5,-2.5 z"
+       d="m 103.98695,-41.460742 c 1.38073,0 2.50002,1.119288 2.50002,2.5 l 0,74.999999 c 0,1.38071 -1.11929,2.5 -2.50002,2.5 l -6.533274,0 c -1.38071,0 -2.5,-1.11929 -2.5,-2.5 l 0,-74.999999 c 0,-1.380712 1.11929,-2.5 2.5,-2.5 z"
        sodipodi:nodetypes="ccccccccc" />
     <path
        sodipodi:nodetypes="ccccccccc"
-       d="m 71.454782,-57.265185 c 1.38071,0 2.5,1.119288 2.5,2.5 l 0,99.835557 c 0,1.38071 -1.11929,2.5 -2.5,2.5 l -45.48,0 c -1.380711,0 -2.500002,-1.11929 -2.500002,-2.5 l 0,-90.773613 12.136113,-11.561944 z"
+       d="m 70.890338,-57.265185 c 1.38071,0 2.5,1.119288 2.5,2.5 l 0,100.964445 c 0,1.38071 -1.11929,2.5 -2.5,2.5 l -45.480002,0 c -1.38071,0 -2.5,-1.11929 -2.5,-2.5 l 0,-91.902501 12.136108,-11.561944 z"
        style="fill:none;stroke:#555555;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        pcbmode:style="stroke"
-       id="path4517"
+       id="path4511"
        inkscape:connector-curvature="0" />
   </g>
   <defs
