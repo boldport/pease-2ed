@@ -8,7 +8,7 @@ This kit is the very first Boldport Club project. It's a tribute to Bob Pease, a
 
 * For more detailed information visit [www.boldport.com/blog/2016/2/21/boldport-club-project-1](http://www.boldport.com/blog/2016/2/21/boldport-club-project-1)
 * To see examples of builds visit the Boldport Club [community pages](http://community.boldport.club/projects/p01-pease/)
-* This project is produced and built using [PCBmodE](https://github.com/boldport/pcbmode) use release [version 4.0](https://github.com/boldport/pcbmode/releases)
+* This project is produced and built using [PCBmodE](http://pcbmode.com) use release [version 4.0](https://github.com/boldport/pcbmode/releases)
 
 ![Cordwood puzzle PCB layout](/images/pease_pcb.png)
 
